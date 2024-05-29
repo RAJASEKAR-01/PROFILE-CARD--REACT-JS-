@@ -1,5 +1,5 @@
 {
-  "homepage":"https://RAJASEKAR-01.github.io/PROFILE-CARD--REACT-JS-/",
+  "homepage": "https://RAJASEKAR-01.github.io/PROFILE-CARD--REACT-JS-/",
   "name": "profile-card",
   "version": "0.1.0",
   "private": true,
@@ -17,8 +17,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d build"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
