@@ -7,7 +7,7 @@ const userdata=[
         job:"Front-end development",
         skills:["UI/UX","HTML","CSS","BOOTSTRAP","JAVASCRIPT","REACT JS","GIT","C++"],
         online:true,
-        profile:"./PROFILE-CARD--REACT-JS-/images/Raja.JPG"
+        profile:"./PROFILE-CARD--REACT-JS-/images/Raja.jpg"
     },
     {
         name:"DHARSHAN.M",
