@@ -7,7 +7,7 @@ const userdata=[
         job:"Front-end development",
         skills:["UI/UX","HTML","CSS","BOOTSTRAP","JAVASCRIPT","REACT JS","GIT","C++"],
         online:true,
-        profile:"./images/Raja.JPG"
+        profile:"./PROFILE-CARD--REACT-JS-/images/Raja.JPG"
     },
     {
         name:"DHARSHAN.M",
@@ -15,7 +15,7 @@ const userdata=[
         job:"Accountant",
         skills:["UI/UX","C++","C","EXCEL","JAVA","HTML","CSS"],
         online:true,
-        profile:"./images/Dharshan.jpg"
+        profile:"./PROFILE-CARD--REACT-JS-/images/Dharshan.jpg"
     },
     {
         name:"PANDISELVAM.S",
@@ -23,7 +23,7 @@ const userdata=[
         job:"Front end developer",
         skills:["HTML","CSS","JAVASCRIPT","BOOTSTRAP","C","PYTHON","GIT"],
         online:false,
-        profile:"./images/Pandi.jpg"
+        profile:"./PROFILE-CARD--REACT-JS-/images/Pandi.jpg"
     }
 ]
 function User(props){
